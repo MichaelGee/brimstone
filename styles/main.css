@@ -1,5 +1,5 @@
 #intro {
-  background: url("../img/panorama-3094696_1920.jpg") no-repeat center center;
+  background: url("../img/web.jpg") no-repeat center center;
   background-size: cover;
 }
 
@@ -44,4 +44,9 @@
 
 #pricing ul li {
   font-size: 1.1em;
+}
+
+
+#banner-text{
+  font-size: 2.7rem !important;
 }
