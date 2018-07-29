@@ -1,10 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300|Roboto') !important;
+
 #intro {
   background: url("../img/web.jpg") no-repeat center center;
   background-size: cover;
 }
 
 .top-nav-collapse {
-  background-color: #3949ab !important;
+  background-color: #2979ff !important;
+}
+
+.navbar{
+  background: #2979ff !important;
+}
+
+#email-btn{
+  background: #dd2c00 !important;
 }
 
 .navbar:not(.top-nav-collapse) {
@@ -13,7 +23,7 @@
 
 @media (max-width: 768px) {
   .navbar:not(.top-nav-collapse) {
-    background: #3949ab !important;
+    background: #2979ff !important;
   }
 }
 
