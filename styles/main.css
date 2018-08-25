@@ -44,6 +44,12 @@
   }
 }
 
+
+
+#team{
+  background: white !important;
+}
+
 #pricing .lead {
   opacity: 0.7;
 }
